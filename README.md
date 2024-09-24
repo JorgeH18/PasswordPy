@@ -1,2 +1,2 @@
 # PasswordPy
-A simple python project for creating, storing and evaluate passwords
+A simple python project for create, evaluate and store passwords
